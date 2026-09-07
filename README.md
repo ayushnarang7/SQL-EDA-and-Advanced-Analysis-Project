@@ -27,7 +27,7 @@ The EDA phase covers:
 
 ### Dimensions Exploration
   
-- Geographical data (countries)
+- Customer geography (countries)
 - Product categories, subcategories, and products
 
 ### Date Exploration
