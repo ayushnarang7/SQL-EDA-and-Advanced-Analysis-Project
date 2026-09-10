@@ -73,6 +73,9 @@ AVG(price) as avg_price
 FROM sales
 GROUP BY order_month) a;
 
+
+		-- 3.Performance Analysis
+
 /* Analyze yearly product revenue by comparing
    each year's revenue to the product's average revenue
    and the previous year's revenue */
